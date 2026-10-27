@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: камеры Xiaomi"
+  short_description: "Доступность камер, прошивки и проверка обновлений"
+  default_prompt: "Используй $zarya-xiaomi-cameras: проверь доступность и версии камер, дай отчёт по городам без запуска обновлений."

@@ -17,6 +17,7 @@
 | [zarya-bp-audit](skills/zarya-bp-audit/SKILL.md) | Аудит конфигурации БП и доказательств исполнения |
 | [zarya-telephony-city-pools](skills/zarya-telephony-city-pools/SKILL.md) | Сверка поставок, каталогов и городских пулов номеров |
 | [zarya-admin24-integration](skills/zarya-admin24-integration/SKILL.md) | Разработка связи автора, заявки и уведомлений; backend не включён |
+| [zarya-xiaomi-cameras](skills/zarya-xiaomi-cameras/SKILL.md) | Доступность камер Xiaomi, версии, порученное OTA и отчёты по городам |
 | [mango-staff-mobile-online](skills/mango-staff-mobile-online/SKILL.md) | Подготовительная онлайн-версия; рабочего облачного подключения и записи нет |
 
 ## Установка
