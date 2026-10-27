@@ -1,12 +1,13 @@
 # Навыки проекта «Заря»
 
-Публичные версии локальных навыков Codex. Состояние: 27 октября 2026 года.
+Публичные версии локальных навыков Codex. Состояние: 27 октября 2026 года. Полный [каталог и статус готовности](CATALOG.md).
 
 | Навык | Назначение |
 |---|---|
 | [mango-staff-mobile-setup](skills/mango-staff-mobile-setup/SKILL.md) | Подбор мобильных номеров, подписи, входящие схемы, исходящий АОН и разрешённые тесты через Asterisk |
 | [zarya-crm-semantic-layer](skills/zarya-crm-semantic-layer/SKILL.md) | Правила чтения Озера, проверки источников и интерпретации CRM-показателей |
 | [zarya-unrecognized-cities](skills/zarya-unrecognized-cities/SKILL.md) | Подбор городов из справочника с проверкой региона и полноты списка |
+| [mango-staff-mobile-online](skills/mango-staff-mobile-online/SKILL.md) | Подготовительная онлайн-версия: планирование через MCP; запись в Манго и облачное подключение не включены |
 
 ## Установка
 
