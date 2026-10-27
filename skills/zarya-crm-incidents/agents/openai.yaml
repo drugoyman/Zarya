@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: повторные лиды"
+  short_description: "Хронология повторных лидов и проверка причин"
+  default_prompt: "Разбери инцидент повторного лида через $zarya-crm-incidents, отдели факты от гипотез."

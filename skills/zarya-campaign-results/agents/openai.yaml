@@ -1,0 +1,6 @@
+interface:
+  display_name: "Заря: результаты рассылок"
+  short_description: "Встречи, договоры и звонки после рассылок"
+  default_prompt: "Используй $zarya-campaign-results, чтобы проверить новые движения лидов и сравнить результаты рассылок Зари."
+policy:
+  allow_implicit_invocation: true

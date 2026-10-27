@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: транки Скорозвона"
+  short_description: "Контроль нагрузки, ошибок и ротации транков"
+  default_prompt: "Проверь транки Скорозвона через $zarya-skorozvon-trunks и предложи изменения по фактической нагрузке."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: сверка звонков"
+  short_description: "Сопоставление попыток Mango, Скорозвона и МТС"
+  default_prompt: "Сверь попытки звонков через $zarya-call-reconciliation и покажи неоднозначные совпадения."

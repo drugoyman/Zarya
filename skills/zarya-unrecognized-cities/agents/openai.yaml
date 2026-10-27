@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: неопознанные города"
+  short_description: "Только новые привязки городов в исходном порядке"
+  default_prompt: "Используй $zarya-unrecognized-cities: проверь новые незаполненные строки и выдай только город → город."

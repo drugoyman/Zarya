@@ -1,0 +1,6 @@
+interface:
+  display_name: "Заря: рассылки ChatApp"
+  short_description: "Подготовка рассылок и отправка с журналом"
+  default_prompt: "Используй $zarya-chatapp-campaigns для подготовки рассылки Зари и проверки готовности линий и получателей."
+policy:
+  allow_implicit_invocation: true

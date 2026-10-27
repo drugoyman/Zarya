@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: разработка Пульса"
+  short_description: "Разделы Пульса, расчёты и права пользователей"
+  default_prompt: "Используй $zarya-pulse-development для добавления раздела Пульса с отдельными правами."
