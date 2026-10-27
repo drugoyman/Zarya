@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: города и пулы номеров"
+  short_description: "Сверка поставок, каталогов и городских привязок"
+  default_prompt: "Сверь поставку с городами и привязками через $zarya-telephony-city-pools без изменений CRM."

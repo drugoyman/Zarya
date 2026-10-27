@@ -1,0 +1,6 @@
+interface:
+  display_name: "Заря: Админ24 и техподдержка"
+  short_description: "Форма заявок, авторство и уведомления Битрикс"
+  default_prompt: "Используй $zarya-admin24-integration для проверки прототипа формы Зари и подготовки интеграции Админ24 с уведомлениями автору."
+policy:
+  allow_implicit_invocation: true
