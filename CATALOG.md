@@ -1,6 +1,6 @@
 # Каталог навыков Зари
 
-Обновлено 27.10.2026. Четырнадцать локально оформленных навыков и одна отдельная подготовительная онлайн-версия. Копии в архивах не считаются дополнительными навыками.
+Обновлено 28.10.2026. Пятнадцать локально оформленных навыков и одна отдельная подготовительная онлайн-версия. Копии в архивах не считаются дополнительными навыками.
 
 | Навык | Назначение |
 |---|---|
@@ -11,6 +11,7 @@
 | [zarya-chatapp-campaigns](skills/zarya-chatapp-campaigns/SKILL.md) | Подготовка и порученные рассылки ChatApp |
 | [zarya-campaign-results](skills/zarya-campaign-results/SKILL.md) | История и сравнение результатов рассылок |
 | [zarya-call-reconciliation](skills/zarya-call-reconciliation/SKILL.md) | Сопоставление попыток Mango, Скорозвона и МТС |
+| [zarya-callcity-testing](skills/zarya-callcity-testing/SKILL.md) | Совместные тесты Talker/CallCity, контроль линии и сохранности исходящего |
 | [zarya-crm-incidents](skills/zarya-crm-incidents/SKILL.md) | Хронология повторных лидов и проверка причин |
 | [zarya-pulse-development](skills/zarya-pulse-development/SKILL.md) | Разделы Пульса, расчёты и права пользователей |
 | [zarya-data-freshness](skills/zarya-data-freshness/SKILL.md) | Диагностика свежести, покрытия и качества аналитики |
