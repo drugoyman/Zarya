@@ -1,6 +1,6 @@
 # Навыки проекта «Заря»
 
-Публичные версии локальных навыков Codex. Обновлено 28 октября 2026 года. [Каталог и статус готовности](CATALOG.md).
+Публичные версии локальных навыков Codex. Обновлено 29 октября 2026 года. [Каталог и статус готовности](CATALOG.md).
 
 | Навык | Назначение |
 |---|---|
@@ -20,6 +20,8 @@
 | [zarya-admin24-integration](skills/zarya-admin24-integration/SKILL.md) | Разработка связи автора, заявки и уведомлений; backend не включён |
 | [zarya-xiaomi-cameras](skills/zarya-xiaomi-cameras/SKILL.md) | Доступность камер Xiaomi, версии, порученное OTA и отчёты по городам |
 | [mango-staff-mobile-online](skills/mango-staff-mobile-online/SKILL.md) | Подготовительная онлайн-версия; рабочего облачного подключения и записи нет |
+
+| [zarya-client-questionnaire](skills/zarya-client-questionnaire/SKILL.md) | Логика Excel-анкеты КЦ, расхождения и подготовка переноса в Битрикс24 |
 
 ## Установка
 

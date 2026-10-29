@@ -1,0 +1,4 @@
+interface:
+  display_name: "Заря: анкета КЦ"
+  short_description: "Логика анкеты и подготовка переноса в Битрикс24"
+  default_prompt: "Используй $zarya-client-questionnaire для разбора анкеты и её правил квалификации."
