@@ -8,6 +8,7 @@
 | [zarya-crm-semantic-layer](skills/zarya-crm-semantic-layer/SKILL.md) | Чтение Озера и интерпретация CRM-показателей |
 | [zarya-unrecognized-cities](skills/zarya-unrecognized-cities/SKILL.md) | Только новые незаполненные привязки городов в исходном порядке |
 | [zarya-skorozvon-trunks](skills/zarya-skorozvon-trunks/SKILL.md) | Контроль нагрузки и порученная ротация транков Скорозвона |
+| [zarya-tnb-campaigns](skills/zarya-tnb-campaigns/SKILL.md) | Отправка ТНБ Север через MAX → WhatsApp, очередь, контроль и отчёты |
 | [zarya-chatapp-campaigns](skills/zarya-chatapp-campaigns/SKILL.md) | Подготовка и порученные рассылки ChatApp |
 | [zarya-campaign-results](skills/zarya-campaign-results/SKILL.md) | История и сравнение результатов рассылок |
 | [zarya-call-reconciliation](skills/zarya-call-reconciliation/SKILL.md) | Сопоставление попыток Mango, Скорозвона и МТС |
